@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @duoroudao
 - 👀 I’m interested in FPGA,DEEP LEARNING
-- 🌱 I’m currently learning about Contral Science And Engineering
+- 🌱 I’m currently learning about Controling Science And Engineering
 - 💞️ I’m looking to collaborate on Learning
 - 📫   QQ:1872317141
 
