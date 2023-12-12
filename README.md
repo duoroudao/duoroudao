@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @duoroudao
-- 👀 I’m interested in FPGA,DEEP LEARNING
+- 👋 Hi, I’m @Liudd
+- 👀 I’m interested in FPGA ,radar and DEEP LEARNING
 - 🌱 I’m currently learning about Controling Science And Engineering
 - 💞️ I’m looking to collaborate on Learning
 - 📫   QQ:1872317141
